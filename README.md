@@ -1,0 +1,2 @@
+We created an Automated Visual Acuity test program based on ETDRS eye chart, running on Windows PC. To help the subject to submit the answer at a distance, two AI tools are integrated: the speech recognition and hand tracking method. Here are two demo video of these methods. These video are in Vietnamese language, with English subtitle. 
+Corresponding author: superminh306@gmail.com ; minhph@ims.vast.ac.vn
